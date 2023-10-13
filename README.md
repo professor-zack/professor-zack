@@ -19,8 +19,8 @@ I'm Tyler, and I'm a second-year studying Computer Science and Statistics (doubl
 
 Some stuff I've been doing recently are:
 - 🏫 &nbsp; Learning more deep learning and software engineering
-- 💻 &nbsp; Working on a data consultancy project for a external private-sector client, as a member of the [Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/)
-- 💼 &nbsp; Working as a Machine Learning Engineer Intern at Singapore's Institute of Infocomm Research this past 2023 summer
+- 💻 &nbsp; Working on a contract project with Github, as a member of the [Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/). Helping Github develop an automated repository classification system using Natural Language Processing
+- 💼 &nbsp; Worked as a Machine Learning Engineer Intern at Singapore's Institute of Infocomm Research this past 2023 summer
 - 🧪 &nbsp; Building a couple of Telegram bots
 - 📖 &nbsp; Attempting to keep up a regular reading habit
 
@@ -42,6 +42,7 @@ Some stuff I've been doing recently are:
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img alt="pandas" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white" />
 </p>
