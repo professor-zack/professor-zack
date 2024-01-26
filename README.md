@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Tyler, and I'm a second-year studying Computer Science and Statistics (double major) at the University of California, Berkeley. I was born and raised in Singapore, where I spent 2 years after high school serving my military service as an underwater combat medic in the Navy before beginning my university studies at Cal. I'm passionate about exploring software engineering, AI/ML, and data science. I also like reading about history, hiking, and playing Civ VI in my spare time.
+I'm Tyler, and I'm a second-year studying Computer Science and Statistics (double major) at the University of California, Berkeley. I was born and raised in Singapore, where I spent 2 years after high school serving my military service as an underwater combat medic in the Navy before beginning my university studies at Cal. I'm passionate about exploring AI/ML, software engineering, and data science. I also like reading about history, hiking, and playing Civ VI in my spare time.
 
-Some stuff I've been doing recently are:
-- 🏫 &nbsp; Learning more deep learning and software engineering
-- 💻 &nbsp; Working on a contract project with Github, as a member of the [Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/). Helping Github develop an automated repository classification system using Natural Language Processing
-- 💼 &nbsp; Worked as a Machine Learning Engineer Intern at Singapore's Institute of Infocomm Research this past 2023 summer
-- 🧪 &nbsp; Building a couple of Telegram bots
+Here's some stuff I've done recently or am currently doing:
+- 🧪 &nbsp; Working with the Rapid Reviews/Infectious Diseases (RR/ID) scientific journal to develop ML/NLP tools to better review, organize, and classify scientific publications
+- 🎨 &nbsp; Exploring into using GANs to create a program that restyles images into Vincent Van Gogh's art style (think Starry Night or Olive Trees)
+- 🎮 &nbsp; Building a historical trivia quiz Telegram game bot
+- 💻 &nbsp; Worked on a contract project with Github, as a member of the [Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/). Helped Github develop an automated repository classification system using linear regression and multimodal neural networks, achieving >90% accuracy for 20-class classification!
+- 💼 &nbsp; Worked as a Machine Learning Engineer Intern at Singapore's Institute of Infocomm Research in the summer of 2023, doing stuff on few-shot learning image classification
+- 🚗 &nbsp; Did a 2-week road trip with friends through California, Arizona, Utah, and Nevada that included hiking in 8 different national parks
 - 📖 &nbsp; Attempting to keep up a regular reading habit
 
 ### Languages
@@ -37,14 +39,15 @@ Some stuff I've been doing recently are:
 
 ### Tools and More
 <p>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img alt="pandas" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 </p>
 
 ### Contact
