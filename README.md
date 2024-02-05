@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 I'm Tyler, and I'm a second-year studying Computer Science and Statistics (double major) at the University of California, Berkeley. I was born and raised in Singapore, where I spent 2 years after high school serving my military service as an underwater combat medic in the Navy before beginning my university studies at Cal. I'm passionate about exploring AI/ML, software engineering, and data science. I also like reading about history, hiking, and playing Civ VI in my spare time.
 
 Here's some stuff I've done recently or am currently doing:
-- 🧪 &nbsp; Working with the Rapid Reviews/Infectious Diseases (RR/ID) scientific journal to develop ML/NLP tools to better review, organize, and classify scientific publications
-- 🎨 &nbsp; Exploring into using GANs to create a program that restyles images into Vincent Van Gogh's art style (think Starry Night or Olive Trees)
+- 🧪 &nbsp; Working with the Rapid Reviews/Infectious Diseases scientific journal (by MIT Press and UC Berkeley School of Public Health) to develop ML/NLP mdoels that improve and automate certain aspects of the peer-review process
+- 📹 &nbsp; Working with Walmart to build a 3D object detection and tracking model that helps automate parts of their warehouse supply chain system
 - 🎮 &nbsp; Building a historical trivia quiz Telegram game bot
-- 💻 &nbsp; Worked on a contract project with Github, as a member of the [Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/). Helped Github develop an automated repository classification system using linear regression and multimodal neural networks, achieving >90% accuracy for 20-class classification!
+- 💻 &nbsp; Worked on a contract project with Github, as a member of the [Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/). Helped Github develop an automated repository classification system using linear regression and multimodal neural networks, achieving 96.2% and 92.4% accuracy respectively for 20-class classification
 - 💼 &nbsp; Worked as a Machine Learning Engineer Intern at Singapore's Institute of Infocomm Research in the summer of 2023, doing stuff on few-shot learning image classification
 - 🚗 &nbsp; Did a 2-week road trip with friends through California, Arizona, Utah, and Nevada that included hiking in 8 different national parks
 - 📖 &nbsp; Attempting to keep up a regular reading habit
