@@ -1,29 +1,15 @@
 ### Hello!👋
 
 <!--
-**professor-zack/professor-zack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+https://emojipedia.org/airplane
 -->
 
-I'm Tyler, and I'm a second-year studying Computer Science and Statistics (double major) at the University of California, Berkeley. I was born and raised in Singapore, where I spent 2 years after high school serving my military service as an underwater combat medic in the Navy before beginning my university studies at Cal. I'm passionate about exploring AI/ML, software engineering, and data science. I also like reading about history, hiking, and playing Civ VI in my spare time.
+I'm Tyler, and I'm currently a third-year studying Computer Science and Statistics (double major) at the University of California, Berkeley. I was born and raised in Singapore, where I spent 2 years after high school serving my military service as an underwater combat medic in the Navy before beginning my university studies at Cal. I'm passionate about exploring AI/ML, software engineering, and data science. I also like reading about history, hiking, and playing Civ VI in my spare time.
 
 Here's some stuff I've done recently or am currently doing:
-- 🧪 &nbsp; Working with the Rapid Reviews/Infectious Diseases scientific journal (by MIT Press and UC Berkeley School of Public Health) to develop ML/NLP mdoels that improve and automate certain aspects of the peer-review process
-- 📹 &nbsp; Working with Walmart to build a 3D object detection and tracking model that helps automate parts of their warehouse supply chain system
-- 🎮 &nbsp; Building a historical trivia quiz Telegram game bot
-- 💻 &nbsp; Worked on a contract project with Github, as a member of the [Student Association for Applied Statistics (SAAS)](https://saas.berkeley.edu/). Helped Github develop an automated repository classification system using linear regression and multimodal neural networks, achieving 96.2% and 92.4% accuracy respectively for 20-class classification
-- 💼 &nbsp; Worked as a Machine Learning Engineer Intern at Singapore's Institute of Infocomm Research in the summer of 2023, doing stuff on few-shot learning image classification
-- 🚗 &nbsp; Did a 2-week road trip with friends through California, Arizona, Utah, and Nevada that included hiking in 8 different national parks
+- 💻 &nbsp; Working as a data science intern in Govtech Singapore, assisting in some data synthesis, modelling, and social network graph analysis
+- ✈️ &nbsp; Working with Delta Airlines to build a data processing pipeline of their media content with automated labelling
+- 🤖 &nbsp; Building and maintaining a couple of Telegram bots such as a "Spotted" bot, a personal finances bot (only for me), and a historical trivia quiz bot
 - 📖 &nbsp; Attempting to keep up a regular reading habit
 
 ### Languages
@@ -32,6 +18,7 @@ Here's some stuff I've done recently or am currently doing:
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
@@ -41,6 +28,8 @@ Here's some stuff I've done recently or am currently doing:
 <p>
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
