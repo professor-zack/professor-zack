@@ -4,7 +4,7 @@
 https://emojipedia.org/airplane
 -->
 
-I'm Tyler, and I'm currently a third-year studying Computer Science and Statistics (double major) at the University of California, Berkeley. I was born and raised in Singapore, where I spent 2 years after high school serving my military service as an underwater combat medic in the Navy before beginning my university studies at Cal. I'm passionate about exploring AI/ML, software engineering, and data science. I also like reading about history, hiking, and playing Civ VI in my spare time.
+I'm Tyler, and I'm currently a third-year studying Computer Science and Statistics (double major) at the University of California, Berkeley. I'm passionate about exploring AI/ML, software engineering, and data science. I also like reading about history, hiking, and occasionally playing Civ VI in my spare time.
 
 Here's some stuff I've done recently or am currently doing:
 - 💻 &nbsp; Working as a data science intern at Govtech, assisting in some data synthesis, modelling, and social network graph analysis
