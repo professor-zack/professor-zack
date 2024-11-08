@@ -7,8 +7,8 @@ https://emojipedia.org/airplane
 I'm Tyler, and I'm currently a third-year studying Computer Science and Statistics (double major) at the University of California, Berkeley. I was born and raised in Singapore, where I spent 2 years after high school serving my military service as an underwater combat medic in the Navy before beginning my university studies at Cal. I'm passionate about exploring AI/ML, software engineering, and data science. I also like reading about history, hiking, and playing Civ VI in my spare time.
 
 Here's some stuff I've done recently or am currently doing:
-- 💻 &nbsp; Working as a data science intern in Govtech Singapore, assisting in some data synthesis, modelling, and social network graph analysis
-- ✈️ &nbsp; Working with Delta Airlines to build a data processing pipeline of their media content with automated labelling
+- 💻 &nbsp; Working as a data science intern at Govtech, assisting in some data synthesis, modelling, and social network graph analysis
+- ✈️ &nbsp; Working with NASA to build do an analysis and modeling of genome sequence data from spaceflight studies
 - 🤖 &nbsp; Building and maintaining a couple of Telegram bots such as a "Spotted" bot, a personal finances bot (only for me), and a historical trivia quiz bot
 - 📖 &nbsp; Attempting to keep up a regular reading habit
 
